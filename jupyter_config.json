@@ -1,5 +1,5 @@
 {
   "VoilaConfiguration": {
-    "ExecutePreprocessor.timeout" = 300
+    "ExecutePreprocessor.timeout": "300"
   }
 }
