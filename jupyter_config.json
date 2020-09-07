@@ -1,7 +1,0 @@
-{
-  "VoilaConfiguration": {
-    "ExecutePreprocessor":{
-      "Timeout": "300"
-    }
-  }
-}
