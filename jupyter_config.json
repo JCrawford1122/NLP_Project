@@ -3,7 +3,7 @@
     "theme": "dark"
   },
   "VoilaExecutePreprocessor": {
-    "Timeout": 180
+    "timeout": 180
   }
 
 
