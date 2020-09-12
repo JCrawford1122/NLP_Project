@@ -1,7 +1,4 @@
 {
-  "VoilaConfiguration": {
-    "theme": "dark"
-  },
   "VoilaExecutePreprocessor": {
     "timeout": 180
   }
