@@ -1,17 +1,10 @@
 {
-<<<<<<< HEAD
-    "VoilaExecutePreprocessor": {
-        "timeout": 180
-    }
-}
-=======
   "VoilaConfiguration": {
     "theme": "dark"
   },
   "VoilaExecutePreprocessor": {
-    "Timeout": 180
+    "timeout": 180
   }
 
 
 }
->>>>>>> parent of 629196d... fixing config
